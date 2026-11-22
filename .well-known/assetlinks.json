@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.malikawan.munafabook",
+    "sha256_cert_fingerprints": ["03:E0:25:88:3B:80:78:69:56:70:C9:80:FA:EC:DF:20:A2:3A:27:70:F1:5B:CE:31:1E:ED:74:54:15:0B:28:C2"]
+  }
+}]
