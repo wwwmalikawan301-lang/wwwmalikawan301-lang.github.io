@@ -5,4 +5,12 @@
     "package_name": "com.malikawan.munafabook",
     "sha256_cert_fingerprints": ["03:E0:25:88:3B:80:78:69:56:70:C9:80:FA:EC:DF:20:A2:3A:27:70:F1:5B:CE:31:1E:ED:74:54:15:0B:28:C2"]
   }
-}]
+},{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.wwwmalikawan301_lang.twa",
+        "sha256_cert_fingerprints": ["BF:C9:CC:20:73:A0:EB:39:97:74:91:46:DB:40:24:06:EE:03:DA:8F:C0:8F:C9:BB:BF:51:40:35:A6:8D:03:B8"]
+      }
+}
+]
